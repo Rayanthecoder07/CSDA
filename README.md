@@ -18,7 +18,7 @@ Functionalities:
 - **Frontend:**
   -React
 
--**build tool**
+**build tool**
   -Vite
 
 - **Data Visualization:**
