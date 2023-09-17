@@ -5,7 +5,7 @@ This project has been build in order to fix Statistic's Canada confusing interfa
 
 Functionalities:
 
-Access to Statistic Canada's data
+- [ ] Access to Statistic Canada's data
 Organized by Provinces
 3 available types of Charts
 CAD Exchange Rate to 25 + currencies
