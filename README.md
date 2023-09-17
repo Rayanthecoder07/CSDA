@@ -2,7 +2,7 @@
 stands for Canada Simplified Data Access
 
 This project has been build in order to fix Statistic's Canada confusing interface.
-![alt text]([https://ibb.co/x73RYdN])
+![alt text]([https://i.ibb.co/x73RYdN/csda.png])
 Functionalities:
 
 1. Access to Statistic Canada's data
