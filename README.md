@@ -3,7 +3,7 @@ stands for Canada Simplified Data Access
 
 This project has been build in order to fix Statistic's Canada confusing interface.
 
-Functionalities:
+[] - Functionalities:
 
 1. Access to Statistic Canada's data
 2. Organized by Provinces
